@@ -153,6 +153,8 @@
     <ClCompile Include="T1_TwoSum.cpp" />
     <ClCompile Include="T2_Add_Two_Numbers.cpp" />
     <ClCompile Include="T3_LongSubString.cpp" />
+    <ClCompile Include="T4_MedianTwoArrays.cpp" />
+    <ClCompile Include="T5_LongestPalindromicSubstring.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

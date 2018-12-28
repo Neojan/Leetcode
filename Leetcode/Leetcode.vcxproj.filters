@@ -32,5 +32,11 @@
     <ClCompile Include="T1_TwoSum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="T4_MedianTwoArrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T5_LongestPalindromicSubstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
