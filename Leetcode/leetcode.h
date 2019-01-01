@@ -20,6 +20,7 @@ void T2_test();
 void T3_test();
 void T4_test();
 void T5_test();
+void T6_test();
 
 typedef void (*SOLVE_PROBLEM)(void);
 

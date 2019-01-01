@@ -155,6 +155,7 @@
     <ClCompile Include="T3_LongSubString.cpp" />
     <ClCompile Include="T4_MedianTwoArrays.cpp" />
     <ClCompile Include="T5_LongestPalindromicSubstring.cpp" />
+    <ClCompile Include="T6_ZigZagConversion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
