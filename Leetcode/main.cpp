@@ -11,6 +11,7 @@ FUNC_INDEX solveProblemList[] =
 	{ 4, T4_test },
 	{ 5, T5_test },
 	{ 6, T6_test },
+	{ 7, T7_test },
 };
 
 int main(void)

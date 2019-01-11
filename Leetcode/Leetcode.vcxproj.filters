@@ -41,5 +41,8 @@
     <ClCompile Include="T6_ZigZagConversion.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="T7_ReverseInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
