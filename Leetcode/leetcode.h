@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream> 　　　	//数据流输入／输出
 #include <string>　　　　　	//字符串类
+#include <sstream>
 #include <cstring> 　　　　//字符串处理
 #include <vector>　　　　　	//STL 动态数组容器
 #include <iterator>        //STL迭代器
@@ -22,6 +23,8 @@ void T4_test();
 void T5_test();
 void T6_test();
 void T7_test();
+void T8_test();
+void T9_test();
 
 typedef void (*SOLVE_PROBLEM)(void);
 

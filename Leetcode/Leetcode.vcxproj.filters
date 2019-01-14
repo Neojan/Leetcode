@@ -44,5 +44,11 @@
     <ClCompile Include="T7_ReverseInteger.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="T8_StringToInteger.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T9_PalindromeNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
