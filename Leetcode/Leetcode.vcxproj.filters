@@ -50,5 +50,11 @@
     <ClCompile Include="T9_PalindromeNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="T11_ContainerWithMostWater.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="T12_IntegertoRoman.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

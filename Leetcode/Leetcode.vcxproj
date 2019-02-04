@@ -150,6 +150,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="T11_ContainerWithMostWater.cpp" />
+    <ClCompile Include="T12_IntegertoRoman.cpp" />
     <ClCompile Include="T1_TwoSum.cpp" />
     <ClCompile Include="T2_Add_Two_Numbers.cpp" />
     <ClCompile Include="T3_LongSubString.cpp" />
