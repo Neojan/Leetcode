@@ -26,7 +26,8 @@ void T7_test();
 void T8_test();
 void T9_test();
 void T11_test();
-void T12_test();
+void T12_test(void);
+void T13_test(void);
 
 typedef void (*SOLVE_PROBLEM)(void);
 
