@@ -15,19 +15,20 @@
 //#define DEBUG_CODE;
 using namespace std;
 
-void T0_test();
-void T1_test();
-void T2_test();
-void T3_test();
-void T4_test();
-void T5_test();
-void T6_test();
-void T7_test();
-void T8_test();
-void T9_test();
-void T11_test();
+void T0_test(void);
+void T1_test(void);
+void T2_test(void);
+void T3_test(void);
+void T4_test(void);
+void T5_test(void);
+void T6_test(void);
+void T7_test(void);
+void T8_test(void);
+void T9_test(void);
+void T11_test(void);
 void T12_test(void);
 void T13_test(void);
+void T14_test(void);
 
 typedef void (*SOLVE_PROBLEM)(void);
 

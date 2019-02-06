@@ -72,7 +72,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
 }
 #endif
 
-void T1_test()
+void T1_test(void)
 {
 	int testNums[4] = { 2, 7, 11, 15 };
 	int target = 0;

@@ -134,22 +134,22 @@ public:
 
 void T13_test(void)
 {
-	Solution t12;
+	Solution t13;
 	int ret;
 
-	ret = t12.romanToInt("III");
+	ret = t13.romanToInt("III");
 	cout << ret << endl;
 
-	ret = t12.romanToInt("IV");
+	ret = t13.romanToInt("IV");
 	cout << ret << endl;
 
-	ret = t12.romanToInt("IX");
+	ret = t13.romanToInt("IX");
 	cout << ret << endl;
 
-	ret = t12.romanToInt("LVIII");
+	ret = t13.romanToInt("LVIII");
 	cout << ret << endl;
 
-	ret = t12.romanToInt("MCMXCIV");
+	ret = t13.romanToInt("MCMXCIV");
 	cout << ret << endl;
 
 	getchar();

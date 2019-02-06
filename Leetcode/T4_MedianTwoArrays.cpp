@@ -67,7 +67,7 @@ public:
 	}
 };
 
-void T4_test()
+void T4_test(void)
 {
 	Solution t4;
 	vector<int> v1;

@@ -61,7 +61,7 @@ public:
 	}
 };
 
-void T3_test()
+void T3_test(void)
 {
 	Solution t3;
 	string testS1("abcabcbb");

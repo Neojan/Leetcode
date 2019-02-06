@@ -85,7 +85,7 @@ public:
 	}
 };
 
-void T8_test()
+void T8_test(void)
 {
 	Solution t8;
 	int ret = 0;

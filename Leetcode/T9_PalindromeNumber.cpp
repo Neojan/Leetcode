@@ -52,7 +52,7 @@ public:
 	}
 };
 
-void T9_test()
+void T9_test(void)
 {
 	Solution t9;
 	bool ret = 0;

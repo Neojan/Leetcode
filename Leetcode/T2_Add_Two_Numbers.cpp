@@ -172,7 +172,7 @@ public:
 	}
 };
 
-void T2_test()
+void T2_test(void)
 {
 	Solution twoSolve;
 	ListNode *retNode;

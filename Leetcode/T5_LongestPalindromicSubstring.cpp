@@ -66,7 +66,7 @@ public:
 	}
 };
 
-void T5_test()
+void T5_test(void)
 {
 	Solution t5;
 	string ret;

@@ -48,7 +48,7 @@ public:
 	}
 };
 
-void T7_test()
+void T7_test(void)
 {
 	Solution t7;
 	int test1 = 123;

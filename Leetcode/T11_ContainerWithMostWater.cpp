@@ -35,7 +35,7 @@ public:
 };
 
 
-void T11_test()
+void T11_test(void)
 {
 	Solution t11;
 	vector <int> t1{ 1, 8, 6, 2, 5, 4, 8, 3, 7 };
